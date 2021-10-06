@@ -2,9 +2,7 @@
 /*
    Name: Etu Das
    Date: 06/19/2021
-   Course/Section: IT 206-B01
-   Assignment: Programming Assignment 2
-  
+
    Description:
    
    This program shows a five menues to choose from. Each menue had its own purpose. First, the user may press 1 and select to create a new show.
